@@ -1,4 +1,4 @@
-name: Deploy Python app to Azure Web App - jupitar
+name: Deploy Python app to Azure Web App - Jupitar
 
 on:
   push:
