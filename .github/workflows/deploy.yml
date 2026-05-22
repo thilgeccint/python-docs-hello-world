@@ -3,7 +3,7 @@ name: Deploy Python app to Azure Web App - Jupitar
 on:
   push:
     branches:
-      - master
+      - staging
   workflow_dispatch:
 
 jobs:
